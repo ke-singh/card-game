@@ -1,0 +1,17 @@
+{
+  "name": "sap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "run-func index.js main",
+    "test": "jest --verbose --silent"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.4",
+    "run-func": "^1.0.5"
+  }
+}
